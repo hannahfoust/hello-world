@@ -1,2 +1,2 @@
 # hello-world
-My favorite color is green.
+a bit about yourself.
